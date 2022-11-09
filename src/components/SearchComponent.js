@@ -31,7 +31,7 @@ export const SearchComponent = () => {
   
    useEffect(() => {
      showData();
-   }, []);
+   }, [showData]);
 
   return (
     <div className="container-search">
