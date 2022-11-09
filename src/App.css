@@ -1,0 +1,16 @@
+.bg-curso{
+    background-color:#8540f5 ;
+}
+body{
+    font-size: 10px;
+}
+h1{
+    text-align: center;
+    margin: 2rem;
+}
+.container-search{
+    font-size: 1.2rem;
+    min-width: 20rem ;
+    margin: 0 auto;
+    width: 90%;
+}
